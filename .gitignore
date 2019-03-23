@@ -3,3 +3,9 @@
 # - [Intellij]
 .idea/
 
+# Languages :
+# -----------
+# - [Python]
+# - Jupiter Notebooks
+**/.ipynb_checkpoints/*
+
